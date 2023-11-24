@@ -1,6 +1,6 @@
 const Projects = () => {
     return (
-        <div class="titulo">
+        <div className="titulo">
             <h1>Projeto 1 </h1>
             <hr />
             <p>wj dwojiw   ojd qD  NWJLFH  if (URHOFI2H) OHI3RF    HFOWIFJ hoçIH   WILUFHQoçjru2p jqfoihqnefiULKGQNHOÇIFJOPEÇ    
